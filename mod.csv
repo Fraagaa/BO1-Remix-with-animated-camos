@@ -119,33 +119,7 @@ rawfile,clientscripts/_zombiemode_ffotd.csc
 material,specialty_lightningbolt_zombies
 material,mtl_weapon_30cal_gold
 
-//FX
-fx,maps/zombie/fx_zombie_tesla_bolt_secondary
-fx,maps/zombie/fx_zombie_tesla_electric_bolt
-fx,maps/zombie/fx_zombie_tesla_neck_spurt
-fx,maps/zombie/fx_zombie_tesla_rail_view
-fx,maps/zombie/fx_zombie_tesla_rail_view_ug
-fx,maps/zombie/fx_zombie_tesla_shock
-fx,maps/zombie/fx_zombie_tesla_shock_eyes
-fx,maps/zombie/fx_zombie_tesla_shock_ground
-fx,maps/zombie/fx_zombie_tesla_shock_secondary
-fx,maps/zombie/fx_zombie_tesla_tube
-fx,maps/zombie/fx_zombie_tesla_tube_view
-fx,maps/zombie/fx_zombie_tesla_tube_view_ug
-fx,maps/zombie/fx_zombie_tesla_tube_view2
-fx,maps/zombie/fx_zombie_tesla_tube_view2_ug
-fx,maps/zombie/fx_zombie_tesla_tube_view3
-fx,maps/zombie/fx_zombie_tesla_tube_view3_ug
-fx,maps/zombie/fx_zombie_tesla_ug_elec_bolt
-fx,maps/muzzleflashes/fx_tesla_ug_view
-fx,maps/muzzleflashes/fx_tesla_ug_world
-fx,maps/muzzleflashes/fx_tesla_view
-fx,maps/muzzleflashes/fx_tesla_world
-fx,explosions/fx_grenade_flash
-
 //XMODLES
-xmodel,weapon_usa_tesla
-xmodel,viewmodel_usa_tesla_gun
 xmodel,viewmodel_hands_no_model
 xmodel,t5_weapon_stoner_viewmodel
 xmodel,t5_weapon_stoner_world
@@ -260,17 +234,6 @@ xmodel,zombie_vending_marathon
 xmodel,zombie_vending_nuke
 xmodel,zombie_vending_nuke_on
 
-//FX
-fx,misc/fx_zombie_electric_trap1
-fx,explosions/fx_grenade_flash
-fx,maps/zombie/fx_zmb_trail_doll_blue
-fx,maps/zombie/fx_zmb_trail_doll_green
-fx,maps/zombie/fx_zmb_trail_doll_red
-fx,maps/zombie/fx_zmb_trail_doll_yellow
-fx,env/light/fx_light_overhead
-fx,env/weather/fx_snow_flakes_windy_med_looping
-fx,maps/mp_maps/fx_mp_smk_plume_md_grey
-fx,maps/zombie/fx_fog_zombie_thick_600x600
 
 //PREVIEW
 stringtable,maps\mapsTable.csv
