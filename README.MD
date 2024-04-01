@@ -19,7 +19,7 @@ Decompile the .rar in
 
 ## Animated camos by Fraga
 
-[Github] (https://github.com/Fraagaa)
+[Github](https://github.com/Fraagaa)
 
 ## Created by 5and5
 
