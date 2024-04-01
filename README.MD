@@ -2,7 +2,7 @@
 
 ## Download
 
-[Download](https://github.com/5and5/BO1-Remix/releases/download/v1.7.0/BO1-Remix.zip)
+[Download](https://github.com/Fraagaa/BO1-Remix-with-animated-camos/releases/download/RemixWithCamos/RemixWithCamos.rar)
 
 
 [Download the mod without animated camos](https://github.com/5and5/BO1-Remix/releases/download/v1.7.0/BO1-Remix.zip)
